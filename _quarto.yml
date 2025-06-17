@@ -34,6 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - href: content/test.qmd
+        text: Test content
       - href: content/add-content.qmd
         text: Add content
       - href: content/customizing.qmd
